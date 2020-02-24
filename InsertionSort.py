@@ -4,7 +4,7 @@ def InsertionSort(array):
     
     j = 2 #By default rule of the algorithm, start at the 2nd position of the array.
 
-    for j in range(len(array)):
+    for j in range(1, len(array)):
 
         key = array[j] #The key is supposed to notify the next number you are looking at.
 
