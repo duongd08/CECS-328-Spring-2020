@@ -4,7 +4,7 @@ import java.util.*; // this imports a lot of things such as arrays, scanners, ar
 
 /**
  * CECS 328 Lab Programming Assignment 4 - Max Priority Queue (E.C.)
- * @author Daniel Duong, Meng Moua, Jesse Guardado
+ * @author Daniel Duong
  * 3/27/20
  */
 
